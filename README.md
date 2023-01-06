@@ -50,9 +50,3 @@ Pedro
 [html](https://validator.w3.org/)
 
 [css](https://jigsaw.w3.org/css-validator/)
-
-## Como apoiar os cursos gratuitos e projetos?
-### Você pode:
-:heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
-
-:heavy_check_mark: Compartilhar os cursos e projetos
